@@ -2,7 +2,7 @@
 
 ---
 
-### Understanding Basic Technologies | Week 1
+###  Week 1 | Understanding Basic Technologies
 
 -   Internet and how it works?
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Getting the hang of Overwhelming | Week 2
+###  Week 2 | Getting the hang of Overwhelming 
 
 > Disclaimer : Try to understand these differences, terms deeply
 > NOTE : YOU DO NOT NEED TO LEARN ALL OF IT, YOU JUST NEED TO STUDY THEM AS OF NOW
@@ -54,7 +54,7 @@
 
 ---
 
-### Advancing | Week 3
+###  Week 3 | Advancing
 
 -   Modern CSS
     -   Writng meaningful and modular CSS classes
@@ -81,7 +81,7 @@
 
 ---
 
-### Deploying Sites | Week 4
+###  Week 4 | Deploying Sites 
 
 -   What is Hosting?
 -   Static Hosting for websites
